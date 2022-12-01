@@ -1,0 +1,17 @@
+{
+  "name": "rescript-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "res:build": "rescript",
+    "res:clean": "rescript clean",
+    "res:start": "rescript build -w"
+  },
+  "author": "Yeum Sang Kwon",
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "^10.0.1"
+  }
+}
