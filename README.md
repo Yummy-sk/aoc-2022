@@ -1,9 +1,1 @@
-## ReScript Boilerplate
-
-### Installation
-
-```
-yarn install
-
-yarn res:start
-```
+## AOC 2022
